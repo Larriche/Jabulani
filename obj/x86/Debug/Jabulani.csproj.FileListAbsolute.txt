@@ -1,0 +1,16 @@
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.csproj.ResolveComReference.cache
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.csprojResolveAssemblyReference.cache
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.aboutForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.gameOverForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.highScore.resources
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.introForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.mainMenu.resources
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.questionsForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.successForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.csproj.GenerateResource.Cache
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.Properties.Resources.resources
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\bin\Debug\Jabulani.exe
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\bin\Debug\Jabulani.pdb
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.exe
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Jabulani\obj\x86\Debug\Jabulani.pdb

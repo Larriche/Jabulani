@@ -1,0 +1,44 @@
+C:\Users\Algor\documents\visual studio 2010\Projects\Brilla\Brilla\bin\Debug\Brilla.exe
+C:\Users\Algor\documents\visual studio 2010\Projects\Brilla\Brilla\bin\Debug\Brilla.pdb
+C:\Users\Algor\documents\visual studio 2010\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.mainMenu.resources
+C:\Users\Algor\documents\visual studio 2010\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.Properties.Resources.resources
+C:\Users\Algor\documents\visual studio 2010\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.exe
+C:\Users\Algor\documents\visual studio 2010\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.pdb
+C:\Users\Algor\documents\visual studio 2010\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.introForm.resources
+C:\Users\Algor\documents\visual studio 2010\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.questionsForm.resources
+C:\Users\Algor\Documents\Visual Studio 2010\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.csprojResolveAssemblyReference.cache
+C:\Users\Algor\Documents\Visual Studio 2010\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.csproj.GenerateResource.Cache
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.exe
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.pdb
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\bin\Debug\Brilla.exe
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\bin\Debug\Brilla.pdb
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.csprojResolveAssemblyReference.cache
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.introForm.resources
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.mainMenu.resources
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.Properties.Resources.resources
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.questionsForm.resources
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.csproj.GenerateResource.Cache
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.gameOverForm.resources
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.highScore.resources
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.aboutForm.resources
+C:\Users\Algor\Documents\Projects\Brilla\Brilla\obj\x86\Debug\Brilla.successForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.exe
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.pdb
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\bin\Debug\Brilla.exe
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\bin\Debug\Brilla.pdb
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.csprojResolveAssemblyReference.cache
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.aboutForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.gameOverForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.highScore.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.introForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.mainMenu.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.Properties.Resources.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.questionsForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.successForm.resources
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.csproj.GenerateResource.Cache
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Algor\Documents\Africa Quiz\Brilla\Brilla\obj\x86\Debug\Brilla.csproj.ResolveComReference.cache
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Brilla\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Brilla\obj\x86\Debug\Brilla.csproj.ResolveComReference.cache
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Brilla\obj\x86\Debug\Brilla.exe
+C:\Users\Algor\Documents\Africa Quiz\Jabulani\Brilla\obj\x86\Debug\Brilla.pdb
